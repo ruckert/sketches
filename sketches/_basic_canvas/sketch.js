@@ -1,7 +1,8 @@
 function setup() {
-  // put setup code here
+    // createCanvas(displayWidth, displayHeight)
+    // put setup code here
 }
 
 function draw() {
-  // put drawing code here
+    // put drawing code here
 }
